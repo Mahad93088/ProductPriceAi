@@ -1,0 +1,7 @@
+{
+  "name": "ProductPilot AI",
+  "description": "AI-powered product listing and marketing content generator for online sellers on Shopify, Amazon, Etsy, eBay, and WooCommerce.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
